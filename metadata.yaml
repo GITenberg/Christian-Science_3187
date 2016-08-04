@@ -1,0 +1,35 @@
+_repo: Christian-Science_3187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: Though Mark Twain is best remembered as perhaps the quintessential American
+  humor writer, he was also a keen observer and critic of cultural and social trends.
+  In this vein, he undertook a book-length discussion and analysis of Christian Science
+  and New Thought, both of which enjoyed immense popularity in the nineteenth and
+  early twentieth centuries in the United States. The controversial text was originally
+  rejected by Twain's publisher, a gesture that the author saw as confirming the influence
+  and power of the religious movement.
+gutenberg_issued: '2004-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian Science -- Controversial literature'
+- !lcc 'BX'
+- !lcsh 'Eddy, Mary Baker, 1821-1910'
+- GITenberg
+title: Christian Science
+url: http://www.gutenberg.org/ebooks/3187
