@@ -1,5 +1,8 @@
 _repo: Christian-Science_3187
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -18,6 +21,8 @@ description: Though Mark Twain is best remembered as perhaps the quintessential 
   early twentieth centuries in the United States. The controversial text was originally
   rejected by Twain's publisher, a gesture that the author saw as confirming the influence
   and power of the religious movement.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3187#Christian-Science
 gutenberg_issued: '2004-09-16'
 gutenberg_type: Text
 identifiers:
